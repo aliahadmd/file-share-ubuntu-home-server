@@ -4,7 +4,7 @@ This solution provides a simple yet effective way to share files. Here's how to 
 
 2. Install the required package:
 ```bash
-pip install qrcode
+pip install qrcode pillow
 ```
 
 3. Run the server:
@@ -32,4 +32,3 @@ Security considerations:
 - Consider implementing basic authentication if needed
 - Make sure your firewall settings allow the connection
 
-Would you like me to add any specific features or security enhancements to the code?
